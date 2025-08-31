@@ -102,4 +102,4 @@ Upload your **trained model (`churn_model.pkl`)** and a **CSV file** of customer
 ---
 
 ## 👨‍💻 Author
-**Your Name** – [GitHub](https://github.com/Kartik-Gore)
+**Kartik Gore** – [GitHub](https://github.com/Kartik-Gore)
